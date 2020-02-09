@@ -294,6 +294,13 @@
 ### Web frameworks
 
 - [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services.
+- [x2](https://x2node.com/) -  A collection of modules published with NPM and designed to provide a complete toolset for creating back-end applications that expose RESTful APIs and are backed with a SQL database.
+- [TotalJS](https://www.totaljs.com/) -  Node.js Framework with Apps.
+- [Moleculer Microservices Framework](https://moleculer.services/) -  Fast & powerful microservices framework for NodeJS.
+- [Cylon](https://github.com/hybridgroup/cylon/) -  Cylon - NodeJS framework for robotics, drones, and the Internet of Things.
+- [DerbyJS](https://derbyjs.com/) -  DerbyJS - Full-stack framework for writing modern web applications.
+
+
 - [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 - [Feathers](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
