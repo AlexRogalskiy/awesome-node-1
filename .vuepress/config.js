@@ -12,6 +12,7 @@ module.exports = {
 		repoLabel: 'Contribute!',
 
 		// Optional options for generating "Edit this page" link
+		base:'/awesome-node/',
 
 		// if your docs are in a different repo from your main project:
 		docsRepo: 'team-mahal/awesome-node',
@@ -23,6 +24,5 @@ module.exports = {
 		editLinks: true,
 		// custom text for edit link. Defaults to "Edit this page"
 		editLinkText: 'Help us improve this page!',
-		base:'/awesome-node/'
 	}
 }
