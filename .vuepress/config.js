@@ -2,9 +2,11 @@
 module.exports = {
 	base:"/awesome-node/",
 	themeConfig: {
+		title:"Awesome-Node",
 		sidebar: [
 			'/',
-			['/resources/webframeworks', 'web-frameworks'],
+			['/resources/webframeworks', 'Web-frameworks'],
+			['/resources/madscience', 'Mad science'],
 		],
 		repoLabel: 'Contribute!',
 		editLinks: true,
