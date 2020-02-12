@@ -12,7 +12,7 @@ module.exports = {
 		repoLabel: 'Contribute!',
 
 		// Optional options for generating "Edit this page" link
-		base:'/awesome-node/',
+		base:'/team-mahal/awesome-node/',
 
 		// if your docs are in a different repo from your main project:
 		docsRepo: 'team-mahal/awesome-node',
