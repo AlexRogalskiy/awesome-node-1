@@ -5,7 +5,7 @@
 ## Contents
 
 - [Packages](#packages)
-	- [ORM](#ORM)
+	- [Web frameworks](#web-frameworks)
 	- [Mad science](#mad-science)
 	- [Command-line apps](#command-line-apps)
 	- [Functional programming](#functional-programming)
@@ -16,7 +16,6 @@
 	- [Build tools](#build-tools)
 	- [Hardware](#hardware)
 	- [Templating](#templating)
-	- [Web frameworks](#web-frameworks)
 	- [Documentation](#documentation)
 	- [Filesystem](#filesystem)
 	- [Control flow](#control-flow)
@@ -71,11 +70,37 @@
 
 ## Packages
 
-### ORM ,Active record pattern ,Query Builder
-- [sequelize](https://sequelize.org/) - Sequelize is a promise-based ORM for Node.js and io.js. It supports the dialects PostgreSQL, MySQL, MariaDB, SQLite and MSSQL and features solid transaction support, relations, read replication and more.
-- [knexjs](https://knexjs.org/) - Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift.
-### Mad science
+### Web frameworks
+- [krakenjs](http://krakenjs.com/) - Give your node.js express apps some extra arms.
+- [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services.
+- [x2](https://x2node.com/) -  A collection of modules published with NPM and designed to provide a complete toolset for creating back-end applications that expose RESTful APIs and are backed with a SQL database.
+- [TotalJS](https://www.totaljs.com/) -  Node.js Framework with Apps.
+- [Moleculer Microservices Framework](https://moleculer.services/) -  Fast & powerful microservices framework for NodeJS.
+- [Cylon](https://github.com/hybridgroup/cylon/) -  Cylon - NodeJS framework for robotics, drones, and the Internet of Things.
+- [DerbyJS](https://derbyjs.com/) -  DerbyJS - Full-stack framework for writing modern web applications.
+- [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
+- [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+- [Feathers](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
+- [LoopBack](https://github.com/strongloop/loopback) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
+- [Meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
+- [Restify](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
+- [Sails.js](https://sailsjs.com/) - Realtime MVC Framework for Node.js.
+- [Derby.js](https://derbyjs.com/) - Full-stack framework for writing modern web applications.
+- [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
+- [ActionHero](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
+- [Next.js](https://github.com/zeit/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+- [Nuxt.js](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+- [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
+- [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
+- [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
+- [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
+- [Moleculer](https://moleculer.services) - Fast & powerful microservices framework.
+- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
+- [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+- [Zeronode](https://github.com/sfast/zeronode) - Minimal building block for reliable and fault-tolerant microservices.
+- [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 
+### Mad science
 - [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - [dat](https://github.com/datproject/dat-node) - Real-time replication and versioning for data sets.
@@ -294,36 +319,6 @@
 - [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
-
-### Web frameworks
-- [krakenjs](http://krakenjs.com/) - Give your node.js express apps some extra arms.
-- [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services.
-- [x2](https://x2node.com/) -  A collection of modules published with NPM and designed to provide a complete toolset for creating back-end applications that expose RESTful APIs and are backed with a SQL database.
-- [TotalJS](https://www.totaljs.com/) -  Node.js Framework with Apps.
-- [Moleculer Microservices Framework](https://moleculer.services/) -  Fast & powerful microservices framework for NodeJS.
-- [Cylon](https://github.com/hybridgroup/cylon/) -  Cylon - NodeJS framework for robotics, drones, and the Internet of Things.
-- [DerbyJS](https://derbyjs.com/) -  DerbyJS - Full-stack framework for writing modern web applications.
-- [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-- [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
-- [Feathers](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
-- [LoopBack](https://github.com/strongloop/loopback) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
-- [Meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
-- [Restify](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
-- [Sails.js](https://sailsjs.com/) - Realtime MVC Framework for Node.js.
-- [Derby.js](https://derbyjs.com/) - Full-stack framework for writing modern web applications.
-- [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
-- [ActionHero](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
-- [Next.js](https://github.com/zeit/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
-- [Nuxt.js](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
-- [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
-- [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
-- [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
-- [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
-- [Moleculer](https://moleculer.services) - Fast & powerful microservices framework.
-- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-- [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
-- [Zeronode](https://github.com/sfast/zeronode) - Minimal building block for reliable and fault-tolerant microservices.
-- [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 
 ### Documentation
 
@@ -560,6 +555,8 @@
 	- [MikroORM](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 - Query builder
 	- [Knex](https://github.com/tgriesser/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+- Seeder 
+	- [node-mongo-seeds](https://github.com/toymachiner62/node-mongo-seeds) A tool to quickly populate your mongo db from a set of .json files
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
