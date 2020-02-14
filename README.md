@@ -527,6 +527,7 @@
 - [get-port](https://github.com/sindresorhus/get-port) - Get an available port.
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
 - [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
+- [proxy-addr](https://github.com/jshttp/proxy-addr) - Determine address of proxied request.
 - [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
 - [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
