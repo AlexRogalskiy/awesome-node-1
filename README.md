@@ -534,6 +534,7 @@
 ### Database
 
 - Drivers
+	- [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
 	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
 	- [Redis](https://github.com/luin/ioredis) - Redis client.
 	- [LevelUP](https://github.com/Level/levelup) - LevelDB.
@@ -542,7 +543,6 @@
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
-	- [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
 	- [mysql](https://github.com/db-migrate/mysql) - db-migrate mysql driver.
 - ODM / ORM
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
