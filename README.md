@@ -317,6 +317,8 @@
 - [marko](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
 - [nunjucks](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 - [edge](https://edge.adonisjs.com/) - Node.Js templating engine with fresh air.
+- [haml.js](https://github.com/tj/haml.js) - Faster Haml JavaScript implementation for nodejs.
+- [squirrelly](https://github.com/squirrellyjs/squirrelly) - ✨ Modern, ⚡️ fast, 📦 zero-dependency, and 🔧 configurable JS template engine, <3kb minzipped 
 - [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
