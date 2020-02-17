@@ -576,6 +576,7 @@
 ### Testing
 
 - [AVA](https://github.com/avajs/ava) - Futuristic test runner.
+- [chaijs](https://github.com/chaijs/chai) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 - [Mocha](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
 - [nyc](https://github.com/bcoe/nyc) - Code coverage tool built on istanbul that works with subprocesses.
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework.
