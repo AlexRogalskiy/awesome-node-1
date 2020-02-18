@@ -85,7 +85,6 @@
 - [Meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [Restify](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
 - [Sails.js](https://sailsjs.com/) - Realtime MVC Framework for Node.js.
-- [Derby.js](https://derbyjs.com/) - Full-stack framework for writing modern web applications.
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
 - [ActionHero](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
 - [Next.js](https://github.com/zeit/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
@@ -319,6 +318,8 @@
 - [marko](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
 - [nunjucks](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 - [edge](https://edge.adonisjs.com/) - Node.Js templating engine with fresh air.
+- [haml.js](https://github.com/tj/haml.js) - Faster Haml JavaScript implementation for nodejs.
+- [squirrelly](https://github.com/squirrellyjs/squirrelly) - ✨ Modern, ⚡️ fast, 📦 zero-dependency, and 🔧 configurable JS template engine, <3kb minzipped 
 - [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
@@ -400,6 +401,7 @@
 - [µWebSockets](https://github.com/uWebSockets/uWebSockets) - Highly scalable WebSocket server & client library.
 - [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
 - [Faye](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol.
+- [ShareJS](https://github.com/josephg/ShareJS) - This is a little server & client library to allow concurrent editing of any kind of content via OT. The server runs on NodeJS and the client works in NodeJS or a web browser.
 - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
@@ -576,6 +578,7 @@
 ### Testing
 
 - [AVA](https://github.com/avajs/ava) - Futuristic test runner.
+- [chaijs](https://github.com/chaijs/chai) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 - [Mocha](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
 - [nyc](https://github.com/bcoe/nyc) - Code coverage tool built on istanbul that works with subprocesses.
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework.
