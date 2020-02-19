@@ -307,6 +307,8 @@
 - [johnny-five](https://github.com/rwaldron/johnny-five) - Firmata based Arduino Framework.
 - [serialport](https://github.com/voodootikigod/node-serialport) - Access serial ports for reading and writing.
 - [usb](https://github.com/nonolith/node-usb) - USB library.
+- [node-hid](https://github.com/node-hid/node-hid) - Access USB & Bluetooth HID devices through Node.js.
+- [USBRelay](https://github.com/josephdadams/USBRelay) - Control USB HID Relays using Node JS.
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 - [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
 - [spi-device](https://github.com/fivdi/spi-device) - SPI serial bus access.
