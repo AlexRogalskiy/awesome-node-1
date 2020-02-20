@@ -132,6 +132,7 @@
 
 ### Command-line apps
 
+- [terminal-kit](https://github.com/cronvel/terminal-kit) - BTerminal utilities for node.js.
 - [np](https://github.com/sindresorhus/np) - Better `npm publish`.
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
@@ -558,6 +559,7 @@
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 	- [mysql](https://github.com/db-migrate/mysql) - db-migrate mysql driver.
 - ODM / ORM
+	- [rdb](https://github.com/alfateam/rdb) - ORM for nodejs. Supports postgres, mySql and sqlite.
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
 	- [Massive](https://github.com/robconery/massive-js) - PostgreSQL data access tool.
@@ -575,6 +577,8 @@
 	- [node-mongo-seeds](https://github.com/toymachiner62/node-mongo-seeds) A tool to quickly populate your mongo db from a set of .json files
 - Migration  
 	- [nnode-db-migrate](https://github.com/db-migrate/node-db-migrate) Database migration framework for node
+- Caching  
+	- [node-cache](https://github.com/node-cache/node-cache) a node internal caching module
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
