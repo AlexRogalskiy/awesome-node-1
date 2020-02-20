@@ -6,6 +6,7 @@
 
 - [Packages](#packages)
 	- [Web frameworks](#web-frameworks)
+	- [Utilities](#utilities)
 	- [Mad science](#mad-science)
 	- [Command-line apps](#command-line-apps)
 	- [Functional programming](#functional-programming)
@@ -100,6 +101,10 @@
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 - [allcountjs](https://github.com/allcount/allcountjs) - Rapid application development framework for Node.js.
 - [socketstream](https://github.com/socketstream/socketstream) - A framework for Realtime Web Apps.
+
+### Utilities
+- [slugify](https://github.com/simov/slugify) - Make Slugifies a string with nodejs.
+- [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript and nodejs.
 
 ### Mad science
 - [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
