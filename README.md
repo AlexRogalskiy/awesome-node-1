@@ -7,6 +7,7 @@
 - [Packages](#packages)
 	- [Web frameworks](#web-frameworks)
 	- [Utilities](#utilities)
+	- [OOP-NODE](#oop-node)
 	- [Mad science](#mad-science)
 	- [Command-line apps](#command-line-apps)
 	- [Functional programming](#functional-programming)
@@ -105,6 +106,9 @@
 ### Utilities
 - [slugify](https://github.com/simov/slugify) - Make Slugifies a string with nodejs.
 - [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript and nodejs.
+
+### OOP-NODE
+- [macroable](https://github.com/poppinss/macroable) - A simple ES6 class that can be extended to provide macros and getters functionality to your own classes.
 
 ### Mad science
 - [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
