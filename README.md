@@ -127,6 +127,7 @@
 
 ### Command-line apps
 
+- [yo](https://yeoman.io/) - CLI tool for running Yeoman generators http://yeoman.io
 - [np](https://github.com/sindresorhus/np) - Better `npm publish`.
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
