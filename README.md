@@ -136,6 +136,7 @@
 
 ### Command-line apps
 
+- [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy.
 - [yo](https://yeoman.io/) - CLI tool for running Yeoman generators http://yeoman.io
 - [terminal-kit](https://github.com/cronvel/terminal-kit) - BTerminal utilities for node.js.
 - [np](https://github.com/sindresorhus/np) - Better `npm publish`.
