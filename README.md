@@ -557,6 +557,7 @@
 	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
 	- [Redis](https://github.com/luin/ioredis) - Redis client.
 	- [LevelUP](https://github.com/Level/levelup) - LevelDB.
+	- [node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js maintained by Oracle Corp.
 	- [MySQL](https://github.com/mysqljs/mysql) - MySQL client.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB client.
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
@@ -582,6 +583,8 @@
 	- [node-mongo-seeds](https://github.com/toymachiner62/node-mongo-seeds) A tool to quickly populate your mongo db from a set of .json files
 - Migration  
 	- [nnode-db-migrate](https://github.com/db-migrate/node-db-migrate) Database migration framework for node
+	- [node-sqlite](https://github.com/kriasoft/node-sqlite) - SQLite client library for Node.js applications (SQlite3, ES6 Promise, ES7 async/await, Babel) and SQL-based migrations API.
+	- [node-mariasql](https://github.com/mscdex/node-mariasql) - A node.js binding to MariaDB's non-blocking (MySQL-compatible) client library.
 - Caching  
 	- [node-cache](https://github.com/node-cache/node-cache) a node internal caching module
 - Other
@@ -591,6 +594,7 @@
 	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
 	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+	- [node-ibm_db](https://github.com/ibmdb/node-ibm_db) - IBM DB2 and IBM Informix bindings for node.
 
 ### Testing
 
