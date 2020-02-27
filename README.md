@@ -247,6 +247,7 @@
 - [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 - [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 - [leakage](https://github.com/andywer/leakage) - Write memory leak tests.
+- [NiM](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 - [llnode](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
 - [thetool](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
@@ -257,6 +258,7 @@
 - [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+- [consola](https://github.com/nuxt/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [signale](https://github.com/klauscfhq/signale) - Hackable console logger with beautiful output.
 
 ### Command-line utilities
@@ -599,6 +601,7 @@
 	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
 	- [node-ibm_db](https://github.com/ibmdb/node-ibm_db) - IBM DB2 and IBM Informix bindings for node.
+	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
 
 ### Testing
 
@@ -625,6 +628,7 @@
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - End-to-end testing.
+- [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome.
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
@@ -792,6 +796,8 @@
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values.
+- [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
+- [cashify](https://github.com/xxczaki/cashify) - 💸 Lightweight currency conversion library, successor of money.js
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 - [node-video-lib](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
@@ -883,6 +889,7 @@
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
 - [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
+- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
 - [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 
 ### Community
