@@ -1,6 +1,6 @@
 # Awesome Node
 
-> A curated list of awesome things related to node.js
+> A curated list of awesome things related to nodejs
 
 ## Contents
 
