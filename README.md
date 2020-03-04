@@ -222,6 +222,7 @@
 - [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
 - [request](https://github.com/request/request) - Simplified HTTP request client.
+- [bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - HTTP proxy.
