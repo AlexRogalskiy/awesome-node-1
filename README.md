@@ -789,6 +789,7 @@
 - [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo.
 - [semver](https://github.com/npm/node-semver) - Semantic version parser.
+- [Glob](https://github.com/isaacs/node-glob) - glob functionality for node.js.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
