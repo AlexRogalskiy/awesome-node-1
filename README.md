@@ -55,7 +55,7 @@
 	- [Weird](#weird)
 	- [Serialization](#serialization)
 	- [Miscellaneous](#miscellaneous)
-- [Resources](#resources)
+	- [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Discovery](#discovery)
 	- [Articles](#articles)
@@ -106,6 +106,7 @@
 ### Utilities
 - [slugify](https://github.com/simov/slugify) - Make Slugifies a string with nodejs.
 - [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript and nodejs.
+- [web-push](https://github.com/web-push-libs/web-push) - Web Push library for Node.js
 
 ### OOP-NODE
 - [macroable](https://github.com/poppinss/macroable) - A simple ES6 class that can be extended to provide macros and getters functionality to your own classes.
