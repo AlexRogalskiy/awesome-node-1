@@ -731,7 +731,7 @@
 
 ### Forum
 
-- [nodeBB](https://github.com/NodeBB/NodeBB) - Forum platform for the modern web.
+- [nodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web.
 
 ### Blogging
 
