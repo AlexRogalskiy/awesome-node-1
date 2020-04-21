@@ -348,8 +348,9 @@
 
 ### Documentation
 
-- [documentation.js](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation.
 - [ESDoc](https://github.com/esdoc/esdoc) - Documentation generator targeting ES2015, attaching test code and measuring documentation coverage.
+- [Docusaurus](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+- [documentation.js](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation.
 - [Docco](https://github.com/jashkenas/docco) - Documentation generator which produces an HTML document that displays your comments intermingled with your code.
 - [JSDoc](https://github.com/jsdoc3/jsdoc) - API documentation generator similar to JavaDoc or PHPDoc.
 
@@ -778,6 +779,7 @@
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 - [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module.
+- [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 - [adit](https://github.com/markelog/adit) - SSH tunneling made simple.
 - [import-lazy](https://github.com/sindresorhus/import-lazy) - Import a module lazily.
 - [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
@@ -799,6 +801,7 @@
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values.
+- [husky](https://github.com/typicode/husky) - Create Git hook scripts.
 - [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 - [cashify](https://github.com/xxczaki/cashify) - 💸 Lightweight currency conversion library, successor of money.js
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
